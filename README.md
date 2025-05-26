@@ -18,7 +18,7 @@ It leverages **Langchain + OpenAI** for intelligent product data extraction and 
 - ⚡ High-performance asynchronous API built with FastAPI  
 - 🛠️ Easy to extend and customize for different e-commerce websites  
 - 🚀 Ready for deployment with Uvicorn  
-
+-  Website link : https://www.hiketron.com/
 
 
 ## 🛠️ Installation
@@ -26,6 +26,6 @@ It leverages **Langchain + OpenAI** for intelligent product data extraction and 
 - Install dependencies:
 pip install fastapi uvicorn requests beautifulsoup4 langchain openai
 
-- 🚀 Running the API
+-  Running the API
 Start the server with:
 uvicorn main:app --host 0.0.0.0 --port 8000
